@@ -1,6 +1,13 @@
-# CODTECH-Task1
+**Name:** THIVAHAR.P<br>
+**Company:** CODTECH IT SOLUTIONS<br>
+**InterID:** CT6WTDS313<br>
+**Domain:** Full Stack Development<br>
+**Duration:** July 10th to August 25th<br>
+**Mentor:** Neela Santhosh Kumar<br>
 
-# To-Do List Web App
+# Overview of the Project
+
+##Project:To-Do List Web App
 
 ## Description
 This project is a simple and interactive To-Do List Web Application that allows users to manage their daily tasks. 
