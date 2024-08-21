@@ -5,13 +5,13 @@
 **Duration:** July 10th to August 25th<br>
 **Mentor:** Neela Santhosh Kumar<br>
 
-# Overview of the Project<br>
+# Overview of the Project
 
 ## **Project:** To-Do List Web App
 ![Output](https://github.com/user-attachments/assets/a6410692-5b0f-4fcb-910a-9604bcf8baaf)
 
 ## Description
-This project is a simple and interactive To-Do List Web Application that allows users to manage their daily tasks. 
+This project is a simple and interactive To-Do List Web Application that allows users to manage their daily tasks.<br> 
 The app provides a user-friendly interface to add, delete, and mark tasks as completed.
 
 ## Project Structure
