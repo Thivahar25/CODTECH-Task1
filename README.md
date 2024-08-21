@@ -3,13 +3,13 @@
 # To-Do List Web App
 
 ## Description
-This project is a simple and interactive To-Do List Web Application that allows users to manage their daily tasks. The app provides a user-friendly interface to add, delete, and mark tasks as completed.
+This project is a simple and interactive To-Do List Web Application that allows users to manage their daily tasks. 
+The app provides a user-friendly interface to add, delete, and mark tasks as completed.
 
 ## Project Structure
 - `index.html`: The main HTML file that structures the web app.
 - `style.css`: Contains the CSS for styling the To-Do list.
 - `script.js`: Implements the JavaScript functionality for task management.
-- `bgimg.jpeg`: A background image used to enhance the visual appeal of the app.
 
 ## Features
 - Add new tasks to the list.
