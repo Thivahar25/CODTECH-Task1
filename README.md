@@ -5,9 +5,8 @@
 **Duration:** July 10th to August 25th<br>
 **Mentor:** Neela Santhosh Kumar<br>
 
-# Overview of the Project
+# Overview of the Project<br>
 
-<br>
 ## **Project:** To-Do List Web App
 ![Output](https://github.com/user-attachments/assets/a6410692-5b0f-4fcb-910a-9604bcf8baaf)
 
